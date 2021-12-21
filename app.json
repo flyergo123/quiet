@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/flyergo123/quiet",
+  "repository": "https://github.com/flyergo123/quiet",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
